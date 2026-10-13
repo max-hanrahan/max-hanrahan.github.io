@@ -1,9 +1,14 @@
+<!-- Circular Profile Image, centered and styled -->
+<div align="center">
+  <img src="me.jpeg" width="150px" style="border-radius: 50%; display: block; margin: 0 auto;" alt="Max Hanrahan">
+</div>
+
 # Max Hanrahan
 
 **Ph.D. Candidate in Physics**  
 Wesleyan University — Department of Physics  
 📍 Middletown, CT | ✉️ [mhanrahan@wesleyan.edu](mailto:mhanrahan@wesleyan.edu)  
-🔗 [GitHub](https://github.com/max-hanrahan) | [LinkedIn](https://www.linkedin.com/in/max-hanrahan/) | [Personal Website](mhanrahan.research.wesleyan.edu) [📄 Download PDF CV](Hanrahan_CV_26.pdf)
+🔗 [GitHub](https://github.com/max-hanrahan) | [LinkedIn](https://www.linkedin.com/in/max-hanrahan/) | [Personal Website](mhanrahan.research.wesleyan.edu) | [📄 Download PDF CV](Hanrahan_CV_26.pdf)
 
 ---
 
