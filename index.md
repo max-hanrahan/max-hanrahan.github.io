@@ -8,7 +8,7 @@
 **Ph.D. Candidate in Physics**  
 Wesleyan University — Department of Physics  
 📍 Middletown, CT | ✉️ [mhanrahan@wesleyan.edu](mailto:mhanrahan@wesleyan.edu)  
-🔗 [GitHub](https://github.com/max-hanrahan) | [LinkedIn](https://www.linkedin.com/in/max-hanrahan/) | [Personal Website](mhanrahan.research.wesleyan.edu) | [📄 Download PDF CV](Hanrahan_CV_26.pdf)
+🔗 [GitHub](https://github.com/max-hanrahan) | [LinkedIn](https://www.linkedin.com/in/max-hanrahan/) | [Personal Website](https://mhanrahan.research.wesleyan.edu) | [📄 Download PDF CV](Hanrahan_CV_26.pdf)
 
 ---
 
