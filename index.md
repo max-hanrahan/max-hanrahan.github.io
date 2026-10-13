@@ -13,7 +13,7 @@ Wesleyan University — Department of Physics
 ---
 
 ## About & Research Interests
-I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. Starr. My research focuses on molecular dynamics simulations using LAMMPS, C++, and Python to investigate the structure, dynamics, and phase behavior of complex polymer systems, dynamic bonding, and surface tension.
+I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. Starr. Working at the intersection of soft matter physics and computational statistical mechanics, I use large-scale molecular dynamics simulations to probe the phase behavior, interface properties, and collective dynamics of complex polymer architectures.
 
 ---
 
@@ -26,8 +26,8 @@ I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. 
 
 ## Publications
 
-* **Hanrahan, M. K.**, Grandfield, E., Kumar, S. K., Douglas, J. F., & Starr, F. W. (2026). *Phase behavior, self-assembly, and interfacial tension of a dynamically linked polymer blend*. **The Journal of Chemical Physics**, 164(19), 194907.  
-  ⭐ *Selected as an Editor's Pick, Featured in an AIP Scilight, and Published in the Special Collection: Festschrift in Honor of Kurt Kremer.*
+* **Hanrahan, M. K.**, Grandfield, E., Kumar, S. K., Douglas, J. F., & Starr, F. W. (2026). *Phase behavior, self-assembly, and interfacial tension of a dynamically linked polymer blend*. **The Journal of Chemical Physics**, 164, 194907.  
+  ⭐ *Selected as an Editor's Pick, [Featured in an AIP Scilight](https://doi.org/10.1063/10.0043971), and Published in the Special Collection: Festschrift in Honor of Kurt Kremer.*
 
 * Castro Rubio, C. A., Fan, J., **Hanrahan, M. K.**, Douglas, J. F., & Starr, F. W. (2023). *Structure and Dynamics of Composites of Star Polymers in a Linear Polymer Matrix*. **Macromolecules**, 56(23).
 
@@ -39,7 +39,7 @@ I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. 
 
 * **Graduate Research Assistant**, Wesleyan University *(2022 – Present)*  
   *Advisor: Dr. Francis W. Starr*  
-  * Develop and execute molecular dynamics simulations using LAMMPS, C++, and Python to investigate polymer system phase behaviors.
+  * Develop and execute molecular dynamics simulations using LAMMPS, C++, and Python to investigate polymer system phase behavior and self-assembly. 
   * Model star-shaped polymers in linear polymer melts and analyze the role of short-lived dynamic bonds in compatibilizing immiscible symmetric polymer mixtures.
 
 * **REU Research Assistant**, National Renewable Energy Laboratory (NREL) *(2022)*  
@@ -49,7 +49,7 @@ I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. 
 
 * **Undergraduate Researcher**, Hamilton College *(2022)*  
   *Advisor: Prof. M. Smith*  
-  * Investigated magnetohydrodynamic fully general-relativistic (MHDGR) black hole accretion disk dynamics to study magnetic Rayleigh-Taylor instability in thin magnetically arrested disks (MAD).
+  * Investigated magnetohydrodynamic fully general-relativistic (GRMHD) black hole accretion disk dynamics to study magnetic Rayleigh-Taylor instability in thin magnetically-arrested disks.
 
 * **REU Research Assistant**, National Institute of Standards and Technology (NIST) *(2021)*  
   *Advisor: M. Gaitan*  
@@ -65,7 +65,7 @@ I am a Physics Ph.D. candidate at Wesleyan University advised by Dr. Francis W. 
 
 * **Polymer Physics Gordon Research Conference** *(Summer 2026)* — Poster: *Phase Behavior, Self-Assembly, and Interfacial Tension of a Dynamically Linked Polymer Blend*, South Hadley, MA.
 * **APS Soft Matter Regional Meeting** *(Fall 2024)* — Talk: *Surface Tension and Phase Behavior in a Dynamically-Linked Polymer Network*, Boston, MA.
-* **American Physical Society (APS) Annual Meeting** *(Spring 2024)* — Talk: *The Effect of Chain Stiffness on the Dynamics of Polymer/Star Polymer Composites*, Minneapolis, MN.
+* **American Physical Society (APS) Annual Meeting** *(Spring 2024)* — Talk: *Effect of Chain Stiffness on the Dynamics of Polymer/Star Polymer Composites*, Minneapolis, MN.
 * **Summer School on Soft Solids and Complex Fluids** *(Summer 2023)* — Poster session at UMass Amherst.
 * **Transportation Research Board (TRB) Annual Meeting** *(Winter 2023)* — Poster: *MEP and Equity: E-bike Impacts on Low-income Essential Workers in Denver*, Washington, D.C.
 * **Hamilton College Senior Thesis Defense** *(Spring 2022)* — Talk: *Analyzing Angular Momentum in Spinning Black Holes Undergoing Magnetic Rayleigh-Taylor Instability*.
