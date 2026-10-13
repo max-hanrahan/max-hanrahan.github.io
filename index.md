@@ -1,7 +1,7 @@
 <!-- Circular Profile Image, centered and styled -->
-<div align="center">
+<!-- <div align="center">
   <img src="me.jpeg" width="150px" style="border-radius: 50%; display: block; margin: 0 auto;" alt="Max Hanrahan">
-</div>
+</div> -->
 
 # Max Hanrahan
 
